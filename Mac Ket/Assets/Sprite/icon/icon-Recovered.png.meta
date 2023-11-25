@@ -1,0 +1,1958 @@
+fileFormatVersion: 2
+guid: d22c3582610b10d4ab10e3dc8f115b32
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon-Recovered_0
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 6227
+        width: 1015
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6744a477842346ab424806caefa9f
+      internalID: -1391632150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_1
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 6104
+        width: 957
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc67420d3244eb49b3ebdc8a2987da3
+      internalID: 193770852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_2
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 6104
+        width: 957
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb84c0c61d07d640a0bd23ddee260fb
+      internalID: -1003884954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_3
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 6574
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105708843439ed94cbb7704b1fabe4c4
+      internalID: -1870356813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_4
+      rect:
+        serializedVersion: 2
+        x: 5361
+        y: 6045
+        width: 951
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bd24db13028e49942b5361e43d164
+      internalID: 124148437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_5
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 6045
+        width: 950
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c280f71fe4470c458f91f846f3fe9d2
+      internalID: -1323592575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_6
+      rect:
+        serializedVersion: 2
+        x: 8031
+        y: 6091
+        width: 221
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f578c6f5f4422429f8ad7fbb0d9c8a
+      internalID: 2115099645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_7
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 6084
+        width: 403
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122c41f856cab443ab0a2267da110c5
+      internalID: -197465076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_8
+      rect:
+        serializedVersion: 2
+        x: 9606
+        y: 6091
+        width: 625
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c24fc38d89339241bd8a86c9cbb765b
+      internalID: 825221660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_9
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 6091
+        width: 827
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf7d6ee877b08459c0fb59c99aee70
+      internalID: 1717672823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_10
+      rect:
+        serializedVersion: 2
+        x: 11683
+        y: 6091
+        width: 950
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107fa52a43491c4ea42549a85594f57
+      internalID: -984271765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_11
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 6517
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998be1cdd2eb3a40a5d41c35215d9c6
+      internalID: 102510341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_12
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 6087
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d1716f2037ea848956b00e8e2b8b1e
+      internalID: 14779247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_13
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 6087
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef763e9df9da298489699d03cfb3cfa4
+      internalID: 434968421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_14
+      rect:
+        serializedVersion: 2
+        x: 5989
+        y: 6022
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3087ae9e3f8f447ba71924effd3439
+      internalID: 1524487744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_15
+      rect:
+        serializedVersion: 2
+        x: 7187
+        y: 6022
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6faffad93be244f86e38f348b444ec
+      internalID: -856308755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 5107
+        width: 963
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860dcdd018a2ed74b8c2b3229f3f2af3
+      internalID: 871604703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_17
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 5579
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceaa86d62d651c42bacd69b8ba62707
+      internalID: 566849989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_18
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 5075
+        width: 609
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc0018c15211e3468bfa516f69087a1
+      internalID: 1979867072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_19
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 5049
+        width: 605
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0703cf04ca4b740b1ff225371787c6
+      internalID: -666154410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_20
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 4831
+        width: 720
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1bc1894c99023439a561a316036b5a
+      internalID: 666140893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_21
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 4855
+        width: 720
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc130859fcc7ec544bfcbbfc1b72496e
+      internalID: -25972587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_22
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 4925
+        width: 228
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc9a299a102c104d8005450506d031e
+      internalID: -1429333088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_23
+      rect:
+        serializedVersion: 2
+        x: 8044
+        y: 4925
+        width: 462
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211afcaebbdf195408970f7c628dc426
+      internalID: -1204793377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_24
+      rect:
+        serializedVersion: 2
+        x: 8864
+        y: 4913
+        width: 591
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacabea8b71f6e2499c3b33fe99797a8
+      internalID: -407491863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_25
+      rect:
+        serializedVersion: 2
+        x: 9769
+        y: 4925
+        width: 690
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d7d65a871d17848a9927683aa3d572
+      internalID: 2139837620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_26
+      rect:
+        serializedVersion: 2
+        x: 10784
+        y: 4919
+        width: 755
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610393e7e23a6844c987635513795e37
+      internalID: -768886835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_27
+      rect:
+        serializedVersion: 2
+        x: 11774
+        y: 4914
+        width: 768
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3add5ddec92f84081aee3e36e3e80e
+      internalID: 113252008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_28
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 5091
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6119328125e05429364c432df0c3e0
+      internalID: 672805367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_29
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 5039
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4578662b9485364688bf6dbb36bec6d
+      internalID: -1270181348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 4190
+        width: 612
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16812a7a954d4f4c8423b832fb79e07
+      internalID: 48071826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_31
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 4203
+        width: 599
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e67cf701e6154d987b17f243d825c
+      internalID: -1745951471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_32
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 4190
+        width: 606
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df3ac4c5f5d2a049909d51ab8bd96d5
+      internalID: -1877130337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_33
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 3806
+        width: 1621
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886c971e3e362024ca58e60618de9a8f
+      internalID: 991230022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_34
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 3311
+        width: 1139
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f78dbd78dba943add3c4a47f7dd39
+      internalID: -377331499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_35
+      rect:
+        serializedVersion: 2
+        x: 9150
+        y: 3311
+        width: 1172
+        height: 1165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdcca471c26ff146971e6e5304a6300
+      internalID: -1399817872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_36
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 4180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24927b042a7a1d54e915eda387f94268
+      internalID: 995786038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_37
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3480
+        width: 1419
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e39636d7c8b774aa4d081d6b4d9ce6
+      internalID: -1931096076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_38
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 3507
+        width: 3444
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f0128a3fe056449db99cbba576208
+      internalID: 211403783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_39
+      rect:
+        serializedVersion: 2
+        x: 10791
+        y: 3493
+        width: 1640
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81dac2df099c0641a80763d8cdb409e
+      internalID: 1301574629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_40
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 3451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512d4cdae14f33419f3b19eb89ed9c5
+      internalID: 1392440268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_41
+      rect:
+        serializedVersion: 2
+        x: 5749
+        y: 3451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f9b32767f8884bba87d7c016444b0
+      internalID: 141344286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_42
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 3444
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc58cd97c925c346a76b53d921f75b8
+      internalID: 60565061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_43
+      rect:
+        serializedVersion: 2
+        x: 5898
+        y: 3451
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a9c4333aebec428c8d24ebf46d444
+      internalID: -421845121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_44
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 3444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52d258177fdd041bc1565521858abd
+      internalID: 1989096278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_45
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 3444
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48de88f4b2aaad439b391c0ad365ac8
+      internalID: 1025513208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_46
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 3438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e921b68a992747a9da172f718ddbd
+      internalID: -100920325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_47
+      rect:
+        serializedVersion: 2
+        x: 5924
+        y: 3431
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eeaba627f12d941b94aa0f9e7f4f50
+      internalID: 321691302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_48
+      rect:
+        serializedVersion: 2
+        x: 5482
+        y: 3431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06adc12b4080154b8323025bb4dc512
+      internalID: -2117655077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_49
+      rect:
+        serializedVersion: 2
+        x: 5651
+        y: 3431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef9bef3c0366b948b74a8c165fcccb0
+      internalID: 728863166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_50
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 3431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ec3119ad086b45b0a0a2b1cb7b3d5
+      internalID: -1622036480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_51
+      rect:
+        serializedVersion: 2
+        x: 5892
+        y: 3425
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256bc2f94eabce0488662c02dc174764
+      internalID: -96885717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_52
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 3424
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38838749371aa424eaa0414a9afd2ae0
+      internalID: -717695157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_53
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5811e9bc0e0141648b3e3fe30e794840
+      internalID: 1792206961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_54
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 3288
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271c204c77ad10479860a2fd3bae60b
+      internalID: -1365350556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_55
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2406
+        width: 807
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f25f5d48fcad41bf7cd57cd32c59b
+      internalID: 1454433198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_56
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2393
+        width: 788
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a7ee2f590b8242840c304ff3b099c
+      internalID: 605349810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_57
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2393
+        width: 970
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ffb243a9f0e894c9336bc47318d4fa
+      internalID: -1930391928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_58
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 2399
+        width: 781
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0dc0f6385d79045b03afd373bc5f41
+      internalID: 965679617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_59
+      rect:
+        serializedVersion: 2
+        x: 6422
+        y: 2282
+        width: 840
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b34a1f6853def4b8aabd5682d5a333
+      internalID: -979784042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_60
+      rect:
+        serializedVersion: 2
+        x: 7466
+        y: 2285
+        width: 914
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ec5ae6eb00d140864d2ddd3b46201
+      internalID: -719276269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_61
+      rect:
+        serializedVersion: 2
+        x: 8845
+        y: 2297
+        width: 915
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337df0aa3e0dd54408beb22ac35aebd5
+      internalID: -1819735640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_62
+      rect:
+        serializedVersion: 2
+        x: 10805
+        y: 2432
+        width: 636
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dce708af84f4d4bbb0aed629f5f522
+      internalID: -1820161850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_63
+      rect:
+        serializedVersion: 2
+        x: 11904
+        y: 2451
+        width: 597
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db79834b7feeb459dd9190e0d9d63a
+      internalID: -1308012949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_64
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2389
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db778a6f8bbdb84caa0db4b2183e380
+      internalID: -103956874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_65
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1410
+        width: 774
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdbd52764703114ea0b874d79bac0a2
+      internalID: -928723487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_66
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1364
+        width: 937
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bdcc54067f394cb68563be2844b06
+      internalID: 1282470687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_67
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 1358
+        width: 717
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3efd14a4ea86ca4cb78d92ea0078e14
+      internalID: 1074029294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_68
+      rect:
+        serializedVersion: 2
+        x: 5055
+        y: 1325
+        width: 983
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a2fb7ad0ec3e448ce8a502bd2b113
+      internalID: 966560531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_69
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 1188
+        width: 833
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb167394bfad04dbfc221503535b16
+      internalID: -1979158039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_70
+      rect:
+        serializedVersion: 2
+        x: 7433
+        y: 1287
+        width: 1056
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a60f8eb70df46438db97bf39d8c866
+      internalID: -614584349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_71
+      rect:
+        serializedVersion: 2
+        x: 8802
+        y: 1339
+        width: 989
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b073cb91de4a49a79beff1b16cc05
+      internalID: -1725286709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_72
+      rect:
+        serializedVersion: 2
+        x: 10785
+        y: 1482
+        width: 689
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f370d3d77500904886dc7709731602b
+      internalID: -1074477245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_73
+      rect:
+        serializedVersion: 2
+        x: 11904
+        y: 1540
+        width: 598
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00239810628987847b74453f6d5efb55
+      internalID: -1256983341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_74
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 400
+        width: 795
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f44a6b48439146b907eea8dfc9cba
+      internalID: 1639464861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_75
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 400
+        width: 807
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624f10d447eef047a3933bbdba64ef2
+      internalID: 801540217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_76
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 433
+        width: 904
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6440251fc8fe464491537e60d06356f
+      internalID: 1800349080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_77
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 466
+        width: 873
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8174f0d416b19f9409987529e4acc4a0
+      internalID: 1767918943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_78
+      rect:
+        serializedVersion: 2
+        x: 7413
+        y: 404
+        width: 1076
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a644be2152828a4b80374124a3c2401
+      internalID: 62833461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_79
+      rect:
+        serializedVersion: 2
+        x: 8911
+        y: 460
+        width: 849
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74502500c27e13146a89d066515e9627
+      internalID: -560106084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_80
+      rect:
+        serializedVersion: 2
+        x: 10805
+        y: 531
+        width: 635
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05efbbaad906e2f488632d8c387a526f
+      internalID: 1464642222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Recovered_81
+      rect:
+        serializedVersion: 2
+        x: 11911
+        y: 537
+        width: 598
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f349f56d402c4188220682e43f675
+      internalID: -589552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      icon-Recovered_0: -1391632150
+      icon-Recovered_1: 193770852
+      icon-Recovered_10: -984271765
+      icon-Recovered_11: 102510341
+      icon-Recovered_12: 14779247
+      icon-Recovered_13: 434968421
+      icon-Recovered_14: 1524487744
+      icon-Recovered_15: -856308755
+      icon-Recovered_16: 871604703
+      icon-Recovered_17: 566849989
+      icon-Recovered_18: 1979867072
+      icon-Recovered_19: -666154410
+      icon-Recovered_2: -1003884954
+      icon-Recovered_20: 666140893
+      icon-Recovered_21: -25972587
+      icon-Recovered_22: -1429333088
+      icon-Recovered_23: -1204793377
+      icon-Recovered_24: -407491863
+      icon-Recovered_25: 2139837620
+      icon-Recovered_26: -768886835
+      icon-Recovered_27: 113252008
+      icon-Recovered_28: 672805367
+      icon-Recovered_29: -1270181348
+      icon-Recovered_3: -1870356813
+      icon-Recovered_30: 48071826
+      icon-Recovered_31: -1745951471
+      icon-Recovered_32: -1877130337
+      icon-Recovered_33: 991230022
+      icon-Recovered_34: -377331499
+      icon-Recovered_35: -1399817872
+      icon-Recovered_36: 995786038
+      icon-Recovered_37: -1931096076
+      icon-Recovered_38: 211403783
+      icon-Recovered_39: 1301574629
+      icon-Recovered_4: 124148437
+      icon-Recovered_40: 1392440268
+      icon-Recovered_41: 141344286
+      icon-Recovered_42: 60565061
+      icon-Recovered_43: -421845121
+      icon-Recovered_44: 1989096278
+      icon-Recovered_45: 1025513208
+      icon-Recovered_46: -100920325
+      icon-Recovered_47: 321691302
+      icon-Recovered_48: -2117655077
+      icon-Recovered_49: 728863166
+      icon-Recovered_5: -1323592575
+      icon-Recovered_50: -1622036480
+      icon-Recovered_51: -96885717
+      icon-Recovered_52: -717695157
+      icon-Recovered_53: 1792206961
+      icon-Recovered_54: -1365350556
+      icon-Recovered_55: 1454433198
+      icon-Recovered_56: 605349810
+      icon-Recovered_57: -1930391928
+      icon-Recovered_58: 965679617
+      icon-Recovered_59: -979784042
+      icon-Recovered_6: 2115099645
+      icon-Recovered_60: -719276269
+      icon-Recovered_61: -1819735640
+      icon-Recovered_62: -1820161850
+      icon-Recovered_63: -1308012949
+      icon-Recovered_64: -103956874
+      icon-Recovered_65: -928723487
+      icon-Recovered_66: 1282470687
+      icon-Recovered_67: 1074029294
+      icon-Recovered_68: 966560531
+      icon-Recovered_69: -1979158039
+      icon-Recovered_7: -197465076
+      icon-Recovered_70: -614584349
+      icon-Recovered_71: -1725286709
+      icon-Recovered_72: -1074477245
+      icon-Recovered_73: -1256983341
+      icon-Recovered_74: 1639464861
+      icon-Recovered_75: 801540217
+      icon-Recovered_76: 1800349080
+      icon-Recovered_77: 1767918943
+      icon-Recovered_78: 62833461
+      icon-Recovered_79: -560106084
+      icon-Recovered_8: 825221660
+      icon-Recovered_80: 1464642222
+      icon-Recovered_81: -589552
+      icon-Recovered_82: -1563568630
+      icon-Recovered_9: 1717672823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

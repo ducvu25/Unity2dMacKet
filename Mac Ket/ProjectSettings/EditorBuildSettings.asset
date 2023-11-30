@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/ManHinhChinh.unity
     guid: 54983c917b6e86f48a193e0b6b6c2b46
   - enabled: 1
+    path: Assets/Scenes/ChonMap.unity
+    guid: 9a49c0b96143fd542ac53032e98aa2cc
+  - enabled: 1
     path: Assets/Scenes/Shop.unity
     guid: 722be3e874778a8458424229aab87ea3
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: 4041e5748e91433409e430d0f233f613
   m_configObjects: {}
